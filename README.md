@@ -52,3 +52,7 @@ Haciendole ping a ubuntu
 ![1723257360135](image/README/1723257360135.png)
 
 ![1723257487071](image/README/1723257487071.png)
+
+
+
+Hay que confesar que primero deberias validar si tienes un internet que supere los 200 mbps, ya que entre instalar una maquina virtual y la otra facilmente se me ha ido una media tarde y recordando que esto es muy valioso vamos ahora a utilizar vagrant o ansible para poder crear maquinas virtuales tanto de ubuntu como de windows en sus versiones workstation para que estos despliegues  puedan llevarse en paralelo.
