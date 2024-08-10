@@ -34,6 +34,13 @@ Antes de encender nos toca confgurar la red de virtualbox por el cual solo estas
 
 ### Network configuration
 
+![1723307071293](image/README/1723307071293.png)
+
+Haciendole ping a ubuntu
+
+![1723312725686](image/README/1723312725686.png)
+
+
 
 ## Ubuntu 24.04 configuration
 
