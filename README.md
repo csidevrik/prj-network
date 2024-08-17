@@ -14,9 +14,11 @@ Bueno si has decidido continuar te comento que estoy usando virtualbox en su ver
 
 ## Windows 11 configuration
 
-La maquina virtuall esta configurada de la siguiente manera
+A esta primera ventana , segun nuestra conveniencia no no sirve ya que en Aditional options nos pide un product key que aun no tenemos.
 
 ![1723253282535](image/README/1723253282535.png)
+
+La maquina virtuall esta configurada de la siguiente manera
 
 ![1723253373229](image/README/1723253373229.png)
 
